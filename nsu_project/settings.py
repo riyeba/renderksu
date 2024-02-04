@@ -52,7 +52,7 @@ SECRET_KEY = 'django-insecure-0hd@37u&px3^(@cugjq(uyeuwsigfr+p)u3cqg4v6=k)jn&cof
 
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["nsu-ksu-app.onrender.com"]
 
 
 # Application definition
